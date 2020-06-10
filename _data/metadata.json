@@ -1,5 +1,5 @@
 {
-  "title": "Your Blog Name",
+  "title": "Ben Tsai",
   "url": "https://myurl.com/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
@@ -9,7 +9,7 @@
     "id": "https://myurl.com/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Ben Tsai",
+    "email": "bentsai@gmail.com"
   }
 }
