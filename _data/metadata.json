@@ -1,12 +1,12 @@
 {
   "title": "Ben Tsai",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "url": "https://www.bentsai.org/",
+  "description": "My space for writing online.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "id": "https://www.bentsai.org/"
   },
   "author": {
     "name": "Ben Tsai",
