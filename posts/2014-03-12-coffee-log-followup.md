@@ -4,7 +4,7 @@ date: "2014-03-12"
 layout: layouts/post.njk
 ---
 
-Jeff Mueller wrote an amazing piece explaining the technical details of my use of MultiMarkdown tables, Launch Center Pro, and Day One. He even wrote an application that helps with the encoding. [Check it out.](http://jeffmueller.net/post/78076360502/using-markdown-tables-with-day-one-and-launch-center)
+Jeff Mueller wrote an amazing piece explaining the technical details of my use of MultiMarkdown tables, Launch Center Pro, and Day One. He even wrote an application that helps with the encoding. [Check it out.](https://jeffmueller.net/2014/02/28/using-markdown-tables-with-day-one-and-launch/)
 
 These kind of logs can be expanded to apply to anything that you want to track: books, movies, beer, meals, etc. [Josiah Wiebe has a pretty good list of actions](http://jwie.be/launch-center-pro-daily-journaling).
 
