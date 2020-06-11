@@ -1,0 +1,13 @@
+---
+title: "Retrospectivizing"
+date: "2012-09-17"
+layout: layouts/post.njk
+---
+
+At a recent developer meeting, my coworker [Justin](http://twitter.com/justinpihony), relayed his experiences with Lean/Agile development. It seems like he has a very pragmatic approach to these processes, which I appreciate. There is a lot of baggage and hype around the term "agile." He preferred to use the term "improvement" rather than ascribe to a certain methodology.
+
+His first and biggest point was promoting the concept of having regular retrospectives. I've long heard about these, but my notion of them was more the idea of holding project post-mortems. But as he began to describe them as being at the frequency of every iteration, a light bulb went off in my head. The exercise of having a regular retrospective would have a profoundly positive affect on our performance as a team. The idea is so simple and seemingly obvious that I am embarrassed about not having researched and implemented it before—meet after every iteration, discuss how things went, and create a few actionable items to improve the next time.
+
+I think everyone on my team is keen on things improving, and there are frequent discussions about how things can be better, particularly when we are experiencing pain. But often times, there is no tangible, actionable change. By starting to do retrospectives, we can enter a virtuous cycle of continuously addressing the pain points and making incremental changes that make everyone happier, fitter, and more productive! I believe everyone experiences pain points, challenges, and friction during the course of a project, and they probably have ideas of how to fix them. The retrospective is a forum for that feedback to come to light, become points of discussion, and ultimately resulting in improvements. What really struck me was that, even though we had feedback, we needed to close the loop. Without a deliberate and focused time like a retro, these complaints and ideas were just sputtering out and dying.
+
+I immediately suggested to my team that we begin to hold retrospectives at the end of every iteration, and we've got our first one scheduled on Tuesday. I started to do some reading about how to run one, what the goals should be, etc. I found that [James Shore](http://jamesshore.com/)'s [**The Art Of Agile Development**](http://jamesshore.com/Agile-Book) was now largely available online, including [the chapter about retrospectives](http://jamesshore.com/Agile-Book/retrospectives.html). His chapter prescribes a script to run through and describes different challenges you might face. I'll try to draw from some of his suggestions as I prepare to lead our first one.
