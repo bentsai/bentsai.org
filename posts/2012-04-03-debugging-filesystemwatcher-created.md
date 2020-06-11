@@ -8,7 +8,7 @@ Today's debugging adventure involved an ActiveX control that uses `FileSystemWat
 
 This didn't fix my problem, though. After some more fuddling around and talking to coworkers, I realized that the problem may be more related to the FileSystemWatcher.Created event. It gets raised when the file first gets created, and if you try to access it before it's done, you'll get an IOException. The best solution I could find is to [simply catch that exception, sleep, and try again](http://bloggingabout.net/blogs/jschreuder/archive/2006/07/06/12886.aspx). I wrote some code like this:
 
-```
+```csharp
     public static bool IsLockAvailable(string filePath)
     {
         try
