@@ -51,6 +51,10 @@ header:after {
   display: table;
   clear: both;
 }
+footer {
+  padding: 1rem;
+  font-size: 0.8125em; /* 10px /16 */
+}
 table {
   margin: 1em 0;
 }
