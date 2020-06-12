@@ -24,7 +24,8 @@ p:last-child {
 }
 p,
 .tmpl-post li,
-img {
+img,
+blockquote {
   max-width: 37.5em; /* 600px /16 */
 }
 p,
@@ -230,4 +231,22 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+blockquote {
+  border-left: 10px solid var(--lightgray);
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: var(--lightgray);
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
