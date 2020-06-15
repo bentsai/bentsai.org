@@ -22,7 +22,7 @@ The problem with a list view is that it's incongruous with the reality of the co
 
 Another problem of displaying at the hourly granularity is that it's impossible (on a phone screen) to fit more than about twelve hours without sacrificing readability and usability. I'd like to see the next twenty-four hours, but there's physically not enough room. That's another motivation to handle areas of a calendar differently.
 
-\[caption id="" align="aligncenter" width="160"\]![](images/Bugshot_2014-02-22_001234.png) Not enough room\[/caption\]
+![Not enough room](/img/Bugshot_2014-02-22_001234.png)
 
 What I'm looking for is something in between the list view and a day view. Show me the next twenty-four hours (Or what should this value be?) worth of events on one screen, but don't ignore my free time. Give me a sense of the landscape of my schedule. _Is my day fragmented by meetings? Where are the large chunks of time I have? Am I free tonight?_
 
