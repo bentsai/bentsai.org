@@ -1,0 +1,254 @@
+Getting links from: https://www.bentsai.org/posts/2018-05-18-cold-brew-mocktail/
+├─BROKEN─ https://thecommonplacecoffeehouse.com/product/musumba-burundi/ (ERRNO_ECONNREFUSED)
+Finished! 11 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2016-10-24-keyboard-hacks-in-macos-sierra/
+├─BROKEN─ https://pqrs.org/osx/karabiner/seil.html.en (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2016-10-24-keyboard-hacks-in-macos-sierra/images/karabiner-elements-karabiner-elements-preferences-screen-shot-10-24-16-1-12-pm.png (HTTP_404)
+Finished! 15 links found. 8 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-03-13-dream-calendar-app/
+├─BROKEN─ https://www.bentsai.org/posts/2014-03-13-dream-calendar-app/images/20140313-134726.jpg (HTTP_404)
+Finished! 11 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-03-12-coffee-log-followup/
+├─BROKEN─ http://jwie.be/launch-center-pro-daily-journaling (HTTP_308)
+├─BROKEN─ https://www.bentsai.org/posts/2014-03-12-coffee-log-followup/images/coffeelog1.png (HTTP_404)
+Finished! 17 links found. 8 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-03-01-plane-and-building/
+├─BROKEN─ https://www.bentsai.org/posts/2014-03-01-plane-and-building/images/20140301-154758.jpg (HTTP_404)
+Finished! 11 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-02-27-meals-tracker-in-day-one/
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-27-meals-tracker-in-day-one/images/20140227-125448.jpg (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-27-meals-tracker-in-day-one/images/20140227-125503.jpg (HTTP_404)
+Finished! 15 links found. 8 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-02-26-day-one-templates-using-launch-center-pro/
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-26-day-one-templates-using-launch-center-pro/images/photo-feb-26-11-38-17-am.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-26-day-one-templates-using-launch-center-pro/images/photo-feb-26-11-38-33-am.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-26-day-one-templates-using-launch-center-pro/images/photo-feb-26-11-38-37-am.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-26-day-one-templates-using-launch-center-pro/images/photo-feb-26-11-38-48-am.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-26-day-one-templates-using-launch-center-pro/images/photo-feb-26-11-38-57-am.png (HTTP_404)
+Finished! 23 links found. 9 excluded. 5 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-02-25-google-travel-reminders/
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-25-google-travel-reminders/images/20140225-161901.jpg (HTTP_404)
+Finished! 11 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2014-02-22-siri-reads-kindle/
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-22-siri-reads-kindle/images/20140222-172711.jpg (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2014-02-22-siri-reads-kindle/images/20140222-172725.jpg (HTTP_404)
+Finished! 14 links found. 9 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2013-12-18-youversion-bible-url-scheme/
+├─BROKEN─ http://crosswire.org/wiki/OSIS_Book_Abbreviations (HTTP_404)
+Finished! 14 links found. 12 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2013-12-14-draft-buttery-markdown-goodness/
+├─BROKEN─ http://philgr.com/blog/open-your-last-draftin-article-in-your-ios-text-editor (ERRNO_ENOTFOUND)
+Finished! 15 links found. 10 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2013-01-07-my-first-pythonista-script/
+├─BROKEN─ http://omz-software.com/Pythonista (HTTP_404)
+Finished! 16 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-10-02-the-key-to-continuous-improvement-part-2/
+├─BROKEN─ https://www.bentsai.org/posts/2012-10-02-the-key-to-continuous-improvement-part-2/bobcanhelp.com (HTTP_404)
+Finished! 11 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-09-28-my-first-coursera/
+├─BROKEN─ https://www.bentsai.org/posts/2012-09-28-my-first-coursera/images/PalmPilot5000.jpg (HTTP_404)
+Finished! 16 links found. 11 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-09-19-our-first-retrospective/
+├─BROKEN─ https://www.bentsai.org/posts/2012-09-19-our-first-retrospective/images/photo.JPG (HTTP_404)
+Finished! 16 links found. 14 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-07-18-download-a-local-nuget-repository-using-nuget/
+├─BROKEN─ http://nuget.org/packages/Nuget.Downloader (HTTP_404)
+Finished! 11 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-06-25-introducing-prose-a-content-editor-for-github/
+├─BROKEN─ http://prose.io/help/getting-started.html (HTTP_404)
+Finished! 10 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-04-03-debugging-filesystemwatcher-created/
+├─BROKEN─ http://aautar.digital-radiation.com/blog/?p=1292 (HTTP_504)
+├─BROKEN─ http://bloggingabout.net/blogs/jschreuder/archive/2006/07/06/12886.aspx (HTTP_404)
+Finished! 11 links found. 8 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-03-06-aside-using-visual-language-in-the-classroom/
+├─BROKEN─ http://blip.tv/play/v0ix%2BSEC.html?p=1 (HTTP_522)
+├─BROKEN─ http://a.blip.tv/api.swf#v0ix+SEC (HTTP_504)
+Finished! 11 links found. 8 excluded. 2 broken.
+
+
+Getting links from: https://www.bentsai.org/posts/2012-01-31-markdown-and-blogging-and-dropbox-oh-my-4/
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-31-markdown-and-blogging-and-dropbox-oh-my-4/1 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-31-markdown-and-blogging-and-dropbox-oh-my-4/2 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-31-markdown-and-blogging-and-dropbox-oh-my-4/1 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-31-markdown-and-blogging-and-dropbox-oh-my-4/2 (HTTP_404)
+Finished! 22 links found. 12 excluded. 4 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-26-using-mercurial-as-ad-hoc-local-version-control-2/
+├─BROKEN─ http://mercurial.berkwood.com/ (ERRNO_ENOTFOUND)
+├─BROKEN─ http://hgbook/ (ERRNO_ENOTFOUND)
+├─BROKEN─ http://www.dehora.net/journal/2008/01/05/using-mercurial-with-perforce/ (HTTP_404)
+Finished! 19 links found. 11 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-scriptogram-guide-2/
+├─BROKEN─ http://draft-slug.md/ (ERRNO_ENOTFOUND)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-23-scriptogram-guide-2/1 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-23-scriptogram-guide-2/1 (HTTP_404)
+Finished! 20 links found. 15 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-markdown-and-blogging-and-dropbox-oh-my-3/
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-23-markdown-and-blogging-and-dropbox-oh-my-3/1 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-23-markdown-and-blogging-and-dropbox-oh-my-3/2 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-23-markdown-and-blogging-and-dropbox-oh-my-3/1 (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2012-01-23-markdown-and-blogging-and-dropbox-oh-my-3/2 (HTTP_404)
+Finished! 22 links found. 17 excluded. 4 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-internationalization-in-mfc-2/
+├─BROKEN─ http://support.microsoft.com/kb/198846 (HTTP_404)
+Finished! 16 links found. 9 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-css-background-opacity-3/
+├─BROKEN─ http://robertnyman.com/2010/01/11/css-background-transparency-without-affecting-child-elements-through-rgba-and-filters/ (HTTP_504)
+Finished! 10 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-css-background-opacity-2/
+├─BROKEN─ http://robertnyman.com/2010/01/11/css-background-transparency-without-affecting-child-elements-through-rgba-and-filters/ (HTTP_504)
+Finished! 10 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-being-a-better-programmer/
+├─BROKEN─ http://www.youtube.com/watch?v=v86fZZ0YpQs&w=560&h=315 (HTTP_404)
+├─BROKEN─ http://www.youtube.com/watch?v=fSWlf56SiW8&w=560&h=315 (HTTP_404)
+Finished! 13 links found. 10 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-23-being-a-better-programmer-2/
+├─BROKEN─ http://www.youtube.com/watch?v=v86fZZ0YpQs&w=560&h=315 (HTTP_404)
+├─BROKEN─ http://www.youtube.com/watch?v=fSWlf56SiW8&w=560&h=315 (HTTP_404)
+Finished! 13 links found. 10 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-11-scriptogram-guide/
+├─BROKEN─ http://draft-slug.md/ (HTTP_undefined)
+Finished! 10 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2012-01-11-from-wordpress-to-markdown/
+├─BROKEN─ http://exitwp.py/ (ERRNO_ENOTFOUND)
+Finished! 10 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-12-18-posting-to-wordpress-from-calepin-2/
+├─BROKEN─ http://jokull.calepin.co/calepin-guide.html (ERRNO_ENOTFOUND)
+├─BROKEN─ http://alberto.calepin.co/automate-posting-in-wordpress-from-calepin-using-ifttt.html (ERRNO_ENOTFOUND)
+├─BROKEN─ http://bentsai.calepin.co/intro-to-calepin.html (ERRNO_ENOTFOUND)
+Finished! 15 links found. 8 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-12-18-from-wordpress-to-markdown-calepin-2/
+├─BROKEN─ https://www.bentsai.org/posts/2011-12-18-from-wordpress-to-markdown-calepin-2/images/wp-export_001.png (HTTP_404)
+├─BROKEN─ http://bentsai.calepin.co/calepin-tips.html (ERRNO_ENOTFOUND)
+Finished! 21 links found. 12 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-12-18-calepin-tips/
+├─BROKEN─ http://jokull.calepin.co/calepin-guide.html (HTTP_undefined)
+├─BROKEN─ https://dev.twitter.com/docs/embedded-tweets (HTTP_404)
+Finished! 22 links found. 16 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-12-16-from-wordpress-to-markdown-calepin/
+├─BROKEN─ https://www.bentsai.org/posts/2011-12-16-from-wordpress-to-markdown-calepin/images/wp-export_001.png (HTTP_404)
+├─BROKEN─ http://bentsai.calepin.co/calepin-tips.html (HTTP_undefined)
+Finished! 21 links found. 18 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-12-13-posting-to-wordpress-from-calepin/
+├─BROKEN─ http://jokull.calepin.co/calepin-guide.html (HTTP_undefined)
+├─BROKEN─ https://alberto.calepin.co/automate-posting-in-wordpress-from-calepin-using-ifttt.html (ERRNO_ENOTFOUND)
+├─BROKEN─ http://bentsai.calepin.co/intro-to-calepin.html (HTTP_undefined)
+Finished! 15 links found. 11 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-11-30-some-git-links/
+├─BROKEN─ http://progit.org/ (BLC_UNKNOWN)
+├─BROKEN─ http://jdonley83.com/setting-up-git-in-windows-with-diffmerge-powershell-posh-git-and-console2 (ERRNO_ENOTFOUND)
+Finished! 14 links found. 8 excluded. 2 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-11-03-httpwww-emoji-cheat-sheet-com/
+├─BROKEN─ https://www.bentsai.org/posts/2011-11-03-httpwww-emoji-cheat-sheet-com/images/gift.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2011-11-03-httpwww-emoji-cheat-sheet-com/images/horse.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2011-11-03-httpwww-emoji-cheat-sheet-com/images/lips.png (HTTP_404)
+Finished! 18 links found. 9 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-06-15-atlassians-20-time-policy/
+├─BROKEN─ http://blogs.atlassian.com/developer/2008/03/20_time_experiment.html (HTTP_404)
+├─BROKEN─ http://blogs.atlassian.com/developer/2008/03/20_time_the_nuts_and_bolts.html (HTTP_404)
+├─BROKEN─ http://blogs.atlassian.com/developer/20_percent_time/ (HTTP_404)
+├─BROKEN─ http://www.atlassian.com/tv/episode?id=mb9r5rzmd2j4&product=ide (HTTP_404)
+├─BROKEN─ http://blogs.atlassian.com/developer/fedex/ (HTTP_404)
+├─BROKEN─ http://blogs.atlassian.com/developer/2009/02/20_percent_year_in_review.html (HTTP_404)
+Finished! 24 links found. 16 excluded. 6 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-06-10-side-projects-project/
+├─BROKEN─ http://www.flickr.com/photos/flatcat/3555774083/ (HTTP_404)
+├─BROKEN─ http://www.google.com/intl/en/jobs/lifeatgoogle/englife/index.html (HTTP_404)
+├─BROKEN─ http://www.american.com/archive/2009/april-2009/Success-on-the-Side (HTTP_504)
+├─BROKEN─ http://al3x.net/2008/02/17/on-side-projects.html (HTTP_404)
+Finished! 16 links found. 8 excluded. 4 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-05-23-standing-desk/
+├─BROKEN─ http://ergohuman.com/ergohuman-me7erg.htm (BLC_UNKNOWN)
+Finished! 13 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-02-21-idisposable-the-contentious-dispose-pattern/
+├─BROKEN─ http://nitoprograms.blogspot.com/2009/08/second-rule-of-implementing-idisposable.html (HTTP_404)
+├─BROKEN─ http://nitoprograms.blogspot.com/ (HTTP_404)
+├─BROKEN─ http://nitoprograms.blogspot.com/2009/08/third-rule-of-implementing-idisposable.html (HTTP_404)
+Finished! 21 links found. 11 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-02-16-idisposable-ipayattention/
+├─BROKEN─ http://www.bluebytesoftware.com/blog/default.aspx (HTTP_404)
+├─BROKEN─ http://www.bluebytesoftware.com/blog/2005/04/08/DGUpdateDisposeFinalizationAndResourceManagement.aspx (HTTP_404)
+├─BROKEN─ http://www.bluebytesoftware.com/blog/2005/04/08/DGUpdateDisposeFinalizationAndResourceManagement.aspx (HTTP_404)
+Finished! 23 links found. 13 excluded. 3 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-02-11-implementing-idisposable/
+├─BROKEN─ http://nitoprograms.blogspot.com/2009/08/how-to-implement-idisposable-and.html (HTTP_404)
+├─BROKEN─ http://nitoprograms.blogspot.com/2009/08/first-rule-of-implementing-idisposable.html (HTTP_404)
+├─BROKEN─ http://nitoprograms.blogspot.com/2009/08/second-rule-of-implementing-idisposable.html (HTTP_404)
+├─BROKEN─ http://nitoprograms.blogspot.com/2009/08/third-rule-of-implementing-idisposable.html (HTTP_404)
+├─BROKEN─ http://nitoprograms.blogspot.com/2010/02/how-to-implement-idisposable-and.html (HTTP_404)
+Finished! 17 links found. 8 excluded. 5 broken.
+
+Getting links from: https://www.bentsai.org/posts/2011-02-11-disposing-you-keep-using-that-word-%c2%a0i-do-not-think-it-means-what-you-think-it-means/
+└─BROKEN─ https://github.com/bentsai/bentsai.org/blob/main/posts/2011-02-11-disposing-you-keep-using-that-word-%c2%a0i-do-not-think-it-means-what-you-think-it-means.md (HTTP_404)
+Finished! 9 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2009-06-25-cleanupdelete-all-svn-folders/
+├─BROKEN─ http://blog.snakehit.be/2007/08/29/svn-recursively-delete-svn-folders/ (ERRNO_ENOTFOUND)
+Finished! 10 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2008-06-06-sparklines/
+├─BROKEN─ https://www.bentsai.org/posts/2008-06-06-sparklines/images/erik_smooth2.png (HTTP_404)
+├─BROKEN─ http://spark.py/ (ERRNO_ENOTFOUND)
+├─BROKEN─ https://www.bentsai.org/posts/2008-06-06-sparklines/images/mile_smooth2.png (HTTP_404)
+├─BROKEN─ https://www.bentsai.org/posts/2008-06-06-sparklines/images/gas_smooth2.png (HTTP_404)
+Finished! 17 links found. 8 excluded. 4 broken.
+
+Getting links from: https://www.bentsai.org/posts/2008-06-03-enso-lives-on/
+├─BROKEN─ http://www.evilbrainjono.net/cgi-bin/blog/showblog.cgi?permalink=503 (HTTP_504)
+Finished! 15 links found. 8 excluded. 1 broken.
+
+Getting links from: https://www.bentsai.org/posts/2008-05-30-using-mercurial-as-ad-hoc-local-version-control/
+├─BROKEN─ http://mercurial.berkwood.com/ (HTTP_undefined)
+├─BROKEN─ http://googlekiller.py/ (ERRNO_ENOTFOUND)
+├─BROKEN─ http://googlekillertests.py/ (ERRNO_ENOTFOUND)
+├─BROKEN─ http://googlekiller.py/ (HTTP_undefined)
+├─BROKEN─ http://googlekillertests.py/ (HTTP_undefined)
+├─BROKEN─ http://www.dehora.net/journal/2008/01/05/using-mercurial-with-perforce/ (HTTP_404)
+Finished! 24 links found. 16 excluded. 6 broken.
+
+Getting links from: https://www.bentsai.org/posts/2008-05-28-enso-dead-back-to-launchy/
+├─BROKEN─ http://humanized.com/about/ (HTTP_404)
+├─BROKEN─ http://azarask.in/blog/ (HTTP_503)
+├─BROKEN─ http://humanized.com/about/ (HTTP_404)
+Finished! 14 links found. 8 excluded. 3 broken.
