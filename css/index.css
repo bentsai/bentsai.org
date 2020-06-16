@@ -70,6 +70,10 @@ code {
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
     "Courier New", Courier, monospace;
   line-height: 1.5;
+  padding: 0.2em 0.3em;
+  font-size: 0.8625em;
+  background-color: #1b1f230d;
+  border-radius: 3px;
 }
 pre {
   font-size: 14px;
