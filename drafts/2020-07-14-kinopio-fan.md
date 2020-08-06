@@ -4,18 +4,31 @@ date: "2020-07-14"
 layout: layouts/post.njk
 ---
 
-I am currently enamored with [Kinopio](https://kinopio.club). It is a tool where
-you create cards on a canvas that you can then organize by moving and
-connecting. It is sorta like Trello, but more spatial and fluid, less
-structured. And whimsical and playful.
+I am currently enamored with [Kinopio](https://kinopio.club). The creator
+describes it so:
 
-What I've used it for:
+> Kinopio is the visual thinking tool for new ideas and hard problems.
 
-- Sentence diagramming
-- Presentation on pair programming
+After using it for a month, this rings true to me. The premise is simple. You
+have cards, which can have text and/or an image. You can put these cards
+anywhere on your canvas. And then you can connect cards. That's _pretty_ much
+it. But that's the genius behind it.
+
+It is brilliantly executed. The interactions are fast and fun. The cards jiggle
+when you drag them. The connections obey some laws of physics. This app oozes
+personality. It's like a fidget toy for your brain. It **feels** perfect.
+
+Check out what I've used it for so far:
+
+- [Sentence diagramming](https://kinopio.club/1-corinthians-2-6-16-cq-OELYGDW0NtYKtNV4eN)
+- [Presentation on pair programming](https://kinopio.club/-programming-frZwGmep_m9vHR52U7wwO)
 - Team retrospective (collaborative)
-- Notes for an academic paper
+- [Notes for an academic paper](https://kinopio.club/1-c2-paper-CPG9szKXfU8zFWxPyqhIj)
 - Work journal
+- Documenting
+  [my guitar setup](https://kinopio.club/-my-guitar-setup-iIo8rVWavPruON76J_GPt)
+- [Initial thoughts](https://kinopio.club/-post-joining-kinopio-club-YE-kaoG5T6Xetw2Jdiyfi)
+  for this post
 
-Great for thinking. Visual and spatial. Two modes: first is brain dump. Then,
-reflection and refining. Moving around cards, making connections.
+I've got a lot more to say about this. But for now, go
+[try it out yourself and see](https://kinopio.club).
