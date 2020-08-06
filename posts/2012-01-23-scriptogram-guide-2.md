@@ -8,7 +8,8 @@ layout: layouts/post.njk
 
 ## Header
 
-The selector for the `h1` in the header is `body > h1`. Here is how I accomplished adding my avatar:
+The selector for the `h1` in the header is `body > h1`. Here is how I
+accomplished adding my avatar:
 
 ```
 /* Title */
@@ -26,17 +27,14 @@ body > h1 {
 - Create a new file in `posts` entitled "DRAFT-slug.md"
 - Set the metadata to be:
 
-\---
-Published: false
-Title: Post Title
+\--- Published: false Title: Post Title
 
 ---
 
-- Once you're ready to publish, change the metadata to be (remove `Published` field and add `Date`:
+- Once you're ready to publish, change the metadata to be (remove `Published`
+  field and add `Date`:
 
-\---
-Date: 2012-01-11
-Title: Post Title
+\--- Date: 2012-01-11 Title: Post Title
 
 ---
 

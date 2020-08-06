@@ -4,7 +4,10 @@ date: "2012-06-19"
 layout: layouts/post.njk
 ---
 
-I wrote some VBScript for the first time in my life. Here's a script that creates a shortcut on the desktop, based heavily on the [answers here](http://stackoverflow.com/q/346107/139). It's pretty rough, but does the job for now:
+I wrote some VBScript for the first time in my life. Here's a script that
+creates a shortcut on the desktop, based heavily on the
+[answers here](http://stackoverflow.com/q/346107/139). It's pretty rough, but
+does the job for now:
 
 ```
 set objWSHShell = CreateObject("WScript.Shell")
