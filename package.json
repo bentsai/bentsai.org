@@ -34,7 +34,22 @@
     "markdown-it-anchor": "^5.2.5"
   },
   "dependencies": {
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.11",
     "prettier": "^2.0.5"
+  },
+  "lint-staged": {
+    "*.{js,css,scss,html,md,json}": [
+      "yarn prettier --write"
+    ],
+    "{posts,drafts}/**/*.{js,css,scss,html,md,json}": [
+      "yarn prettier --write"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "prettier": {
     "printWidth": 80,
