@@ -15,7 +15,9 @@ layout: layouts/post.njk
 
 # Miscellanea
 
-I should write an extension that copies link text and pastes a Markdown-formatted link. That would make link blogging easier. Basically, it would take a link, and output:
+I should write an extension that copies link text and pastes a
+Markdown-formatted link. That would make link blogging easier. Basically, it
+would take a link, and output:
 
 `[%link_text%](%href%)`
 

@@ -4,9 +4,11 @@ date: "2012-10-02"
 layout: layouts/post.njk
 ---
 
-Here's another talk I found by [Bob Gower](bobcanhelp.com), (also of Rally Software):
+Here's another talk I found by [Bob Gower](bobcanhelp.com), (also of Rally
+Software):
 
-\[youtube http://www.youtube.com/watch?v=zeQtKs2HIE0?fs=1&feature=oembed&w=480&h=270\]
+\[youtube
+http://www.youtube.com/watch?v=zeQtKs2HIE0?fs=1&feature=oembed&w=480&h=270\]
 
 - Review the work (5 min)
   - What was completed?

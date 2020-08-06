@@ -4,7 +4,8 @@ date: "2012-02-13"
 layout: layouts/post.njk
 ---
 
-[Andy Lester](http://twitter.com/petdance) talks about how to get out of technical debt. He starts with identifying what it is:
+[Andy Lester](http://twitter.com/petdance) talks about how to get out of
+technical debt. He starts with identifying what it is:
 
 - Clutter
 - Failing tests
@@ -21,4 +22,6 @@ layout: layouts/post.njk
 - Code ownership
 - Not realizing you have technical debt
 
-An important he makes is that you shouldo think about these debts in terms of time and dollars. This allows you to quanitify them and sell paying the debts down to your boss.
+An important he makes is that you shouldo think about these debts in terms of
+time and dollars. This allows you to quanitify them and sell paying the debts
+down to your boss.
