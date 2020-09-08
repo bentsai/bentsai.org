@@ -7,7 +7,7 @@ layout: layouts/post.njk
 I love trying out new tools. It usually comes at the expense of being
 productive, but I _feel_ productive and it's fun. These are tools I've found
 over the years that I use regularly, meaning they have indeed helped me to
-productive.
+productive. And I enjoy using them, too.
 
 - [GitUp](https://gitup.co) - For basic, everyday `git`, I use GitUp because it
   is **fast** (by interfacing directly with the repository database) and
