@@ -7,4 +7,5 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+I am a Spirit person. My `now` page:
+https://kinopio.club/-bentsai-now-BKbSIvWlxzx4oPpnKJuoX
