@@ -39,12 +39,13 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 1rem;
+  padding: 2rem;
 }
 main :first-child {
   margin-top: 0;
 }
 header {
+  padding-left: 1rem;
   border-bottom: 1px dashed var(--lightgray);
 }
 header:after {
@@ -53,7 +54,7 @@ header:after {
   clear: both;
 }
 footer {
-  padding: 1rem;
+  padding: 1rem 1rem 1rem 2rem;
 }
 table {
   margin: 1em 0;
