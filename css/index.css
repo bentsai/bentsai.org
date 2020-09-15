@@ -7,6 +7,7 @@
   --navy: #17050f;
   --blue: #082840;
   --white: #fff;
+  --content-width: 37.5em; /* 600px /16 */
 }
 * {
   box-sizing: border-box;
@@ -26,7 +27,7 @@ p,
 .tmpl-post li,
 img,
 blockquote {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: var(--content-width);
 }
 p,
 .tmpl-post li {
@@ -39,7 +40,8 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 2rem;
+  max-width: var(--content-width);
+  margin: auto;
 }
 main :first-child {
   margin-top: 0;
