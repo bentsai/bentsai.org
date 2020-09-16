@@ -25,4 +25,4 @@ to be swapped, the behavior did not change. So, I used
 [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) to accomplish
 the swap:
 
-![karabiner-elements-karabiner-elements-preferences-screen-shot-10-24-16-1-12-pm](images/karabiner-elements-karabiner-elements-preferences-screen-shot-10-24-16-1-12-pm.png)
+![Karabiner-Elements Preferences dialog](../../img/karabiner-elements-preferences.png)
