@@ -49,8 +49,9 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  padding-left: 1rem;
   border-bottom: 1px dashed var(--lightgray);
+  max-width: var(--content-width);
+  margin: auto;
 }
 header:after {
   content: "";
@@ -153,7 +154,6 @@ blockquote p {
 
 /* Header */
 .home {
-  padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
