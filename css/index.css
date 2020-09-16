@@ -59,7 +59,9 @@ header:after {
   clear: both;
 }
 footer {
-  padding: 1rem 1rem 1rem 2rem;
+  padding: 1rem 1rem 1rem 0;
+  max-width: var(--content-width);
+  margin: auto;
 }
 table {
   margin: 1em 0;
