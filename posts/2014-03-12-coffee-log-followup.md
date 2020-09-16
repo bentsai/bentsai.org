@@ -19,7 +19,7 @@ spectacular job of reducing the friction of putting content online with
 beautiful presentation. Here's a slightly cropped version
 of [my first coffee log post](https://dayone.me/1tFzdg):
 
-[![coffeelog](images/coffeelog1.png)](http://bentsai.files.wordpress.com/2014/03/coffeelog1.png)
+![Coffee log entry](../../img/coffeelog1.png)
 
 Shawn Blanc [beat me to the punch](https://dayone.me/fezy7), which is slightly
 unfair because he was a beta tester:). I did adapt some of the changes he made
