@@ -24,10 +24,12 @@ back into Drafts, passing along that output, and fire off a final action, which
 appends the result to a text file in Dropbox. Now you've got the Bible passage
 for reference almost instantly after writing it down:
 
-\###### 2013-12-12-10-22-22
+```text
+###### 2013-12-12-10-22-22
 
 2 Timothy 1:6-7 : For this reason I remind you to fan into flame the gift of
 God, which is in you through the laying on of my hands, for God gave us a spirit
 not of fear but of power and love and self-control.
+```
 
 Details and scripts forthcoming...

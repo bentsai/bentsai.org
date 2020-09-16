@@ -22,9 +22,9 @@ Here's how:
 - General → Accessibility → Accessibility Shortcut
 - Make sure Voice Over is selected.
 
-[![20140222-172711.jpg](images/20140222-172711.jpg)](http://bentsai.files.wordpress.com/2014/02/20140222-172711.jpg)
+![Accessibility 1](https://bentsai.files.wordpress.com/2014/02/20140222-172711.jpg)
 
-[![20140222-172725.jpg](images/20140222-172725.jpg)](http://bentsai.files.wordpress.com/2014/02/20140222-172725.jpg)
+![Accessibility 2](https://bentsai.files.wordpress.com/2014/02/20140222-172725.jpg)
 
 This is a really powerful feature that is baked into the OS. Props to Amazon for
 implementing support for this in their app so well.
