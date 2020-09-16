@@ -1,5 +1,5 @@
 ---
-title: 'App Idea: "Buzz Clock" for Apple Watch.'
+title: "App Idea: “Buzz Clock” for Apple Watch."
 date: "2015-07-06"
 layout: layouts/post.njk
 ---
