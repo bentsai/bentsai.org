@@ -232,6 +232,9 @@ blockquote p {
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
+.link-icon {
+  padding-right: 2ch;
+}
 a[href].tag,
 a[href].tag:visited {
   color: #fff;
