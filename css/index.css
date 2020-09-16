@@ -41,7 +41,7 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 2rem;
+  padding: 1rem;
   max-width: var(--content-width);
   margin: auto;
 }
@@ -49,7 +49,7 @@ main :first-child {
   margin-top: 0;
 }
 header {
-  padding-left: 1rem;
+  padding: 0 1rem;
   border-bottom: 1px dashed var(--lightgray);
   max-width: var(--content-width);
   margin: auto;
@@ -157,7 +157,7 @@ blockquote p {
 
 /* Header */
 .home {
-  padding: 0 1rem;
+  padding-right: 0.5rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 1em; /* 16px /16 */
