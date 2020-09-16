@@ -12,4 +12,4 @@ which, by stacking, I can save space. So, each line on the grid represents up to
 two hours. Events with zero duration and all-day events should be treated
 differently.
 
-[![20140313-134726.jpg](images/20140313-134726.jpg)](http://bentsai.files.wordpress.com/2014/03/20140313-134726.jpg)
+![Dream calendar app sketch](../../img/20140313-dream-calendar-app-sketch.jpg)
