@@ -74,10 +74,8 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
-    "Courier New", Courier, monospace;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
   line-height: 1.5;
   padding: 0.2em 0.3em;
   font-size: 0.8625em;
@@ -191,26 +189,17 @@ blockquote p {
   padding: 0;
 }
 .postlist-item {
-  counter-increment: start-from -1;
+  line-height: 1.5;
 }
-.postlist-item:before {
-  display: inline-block;
-  pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 100%;
-  text-align: right;
-}
-.postlist-date,
-.postlist-item:before {
+.postlist-date {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
   font-size: 0.8125em; /* 13px /16 */
   color: var(--darkgray);
 }
-.postlist-date {
-  word-spacing: -0.5px;
-}
 .postlist-link {
   display: inline-block;
-  padding: 0.25em 0.1875em; /* 4px 3px /16 */
+  padding: 0.25em;
   text-decoration: none;
 }
 .postlist-item-active .postlist-link {

@@ -1,11 +1,11 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 3
 ---
 
-I am a Spirit person. My `now` page:
-https://kinopio.club/-bentsai-now-BKbSIvWlxzx4oPpnKJuoX
+I am a Spirit person. My
+[`now` page is on Kinopio](https://kinopio.club/-bentsai-now-BKbSIvWlxzx4oPpnKJuoX).
