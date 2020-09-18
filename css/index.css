@@ -191,21 +191,11 @@ blockquote p {
   padding: 0;
 }
 .postlist-item {
-  counter-increment: start-from -1;
-}
-.postlist-item:before {
-  display: inline-block;
-  pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 100%;
-  text-align: right;
-}
-.postlist-date,
-.postlist-item:before {
-  font-size: 0.8125em; /* 13px /16 */
-  color: var(--darkgray);
+  line-height: 1.5;
 }
 .postlist-date {
+  font-size: 0.8125em; /* 13px /16 */
+  color: var(--darkgray);
   word-spacing: -0.5px;
 }
 .postlist-link {
