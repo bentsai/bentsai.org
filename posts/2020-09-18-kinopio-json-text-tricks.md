@@ -6,7 +6,9 @@ layout: layouts/post.njk
 
 I realize this is super-niche information, but I've been lightly playing around
 with the [Kinopio API](https://help.kinopio.club/api/) and the JSON it returns.
-You'll need `curl`, `jq`, and `rg`.
+You'll need [`curl`](https://curl.haxx.se),
+[`jq`](https://stedolan.github.io/jq/), and
+[`rg`](https://github.com/BurntSushi/ripgrep).
 
 Here's the shell incantation for getting a list of cards in a list sorted in
 created order:
