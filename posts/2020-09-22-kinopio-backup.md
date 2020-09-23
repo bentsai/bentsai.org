@@ -4,8 +4,6 @@ date: "2020-09-22"
 layout: layouts/post.njk
 ---
 
-*Update at 10:30p*: I added a one second sleep so I wouldn't get throttled by the API.
-
 I've been using Kinopio for
 [all](https://kinopio.club/weekly-planner-with-examples--juvzn8qrBfW4nvqH6IGKD)
 [sorts](https://kinopio.club/magic-quadrant-7GZrOrOw2diOUc5Njb98z) of
@@ -55,3 +53,7 @@ commits any changes to the repo.
 
 Sometimes I'm getting a 401 from the Kinopio API, so I may have to tweak the
 timing. I wonder if I'm being throttled :)
+
+*Update at 11:03p*: The [401](https://httpstatuses.com/401)'s were because I wasn't
+expanding the API key environment variable in the `awk` command. I fixed that, which
+then led to getting throttled by the API. So then I added a one second sleep.
