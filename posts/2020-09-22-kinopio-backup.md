@@ -4,6 +4,8 @@ date: "2020-09-22"
 layout: layouts/post.njk
 ---
 
+*Update at 10:30p*: I added a one second sleep so I wouldn't get throttled by the API.
+
 I've been using Kinopio for
 [all](https://kinopio.club/weekly-planner-with-examples--juvzn8qrBfW4nvqH6IGKD)
 [sorts](https://kinopio.club/magic-quadrant-7GZrOrOw2diOUc5Njb98z) of
@@ -23,7 +25,7 @@ Here it is, allow me to explain:
 KINOPIO_API_KEY=<your key> \
 curl -H "Authorization: $KINOPIO_API_KEY" https://api.kinopio.club/user/spaces | \
 jq -r ".[] | .id + \",\" + (.name | tojson)" | \
-awk -v key="$KINOPIO_API_KEY" '{ print "curl -H \"Authorization: "key"\" https://api.kinopio.club/space/"$1" > "$2".json" }' FS=, OFS=, | \
+awk -v key="$KINOPIO_API_KEY" '{ print "curl -H \"Authorization: "key"\" https://api.kinopio.club/space/"$1" > "$2".json; sleep 1;" }' FS=, OFS=, | \
 xargs -0 -n1 bash -c
 ```
 
