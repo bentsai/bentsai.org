@@ -1,5 +1,5 @@
 ---
-title: "💭 today"
+title: "I Got My First Mac"
 date: "2021-02-23"
 layout: layouts/post.njk
 ---

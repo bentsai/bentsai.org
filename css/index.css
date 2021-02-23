@@ -224,7 +224,7 @@ blockquote p {
   text-decoration: none;
 }
 .link-icon {
-  padding-right: 2ch;
+  margin-right: 0.5ch;
 }
 a[href].tag,
 a[href].tag:visited {
