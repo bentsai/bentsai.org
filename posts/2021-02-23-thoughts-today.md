@@ -15,5 +15,17 @@ ago, and he seemed keen on the idea.
 [Simon Willison](https://twitter.com/simonw). I like how he uses the pound
 number to begin each paragraph. I've stolen it.
 
-**#2** I ranted a few days ago about how git is inscrutable and I'm sad hg lost.
-A better interface for Git: https://github.com/chriswalz/bit
+**#2** I ranted a few days ago about how `git` is inscrutable and I'm sad `hg`
+lost. A better interface for Git: https://github.com/chriswalz/bit
+
+**#3** I got my first Mac recently. I only started using macOS full time when I
+started at Cisco 5 years ago. Despite being a relative newcomer to the platform,
+I've somehow developed some habits/opinions about using my machine. Here are a
+few things I found myself configuring before my computer felt _usable_:
+
+- Turned the resolution up to max (scaled up)
+- Turned on tap-to-click for the trackpad
+- Turned on three-finger drag. This option is tucked away under Accessibility
+  options for some reason.
+- Map capslock to esc. Eventually, I'll most like set up capslock to be a
+  hyperkey.
