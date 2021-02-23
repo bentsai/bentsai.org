@@ -27,5 +27,5 @@ few things I found myself configuring before my computer felt _usable_:
 - Turned on tap-to-click for the trackpad
 - Turned on three-finger drag. This option is tucked away under Accessibility
   options for some reason.
-- Map capslock to esc. Eventually, I'll most like set up capslock to be a
-  hyperkey.
+- Map `capslock` to `esc`. Eventually, I'll most likely set up `capslock` to be [a
+  hyperkey](https://www.macsparky.com/blog/2021/2/hyper-key-via-bettertouchtool).
