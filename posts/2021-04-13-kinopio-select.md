@@ -57,7 +57,7 @@ let selectDirectDescendants = () => {
 selectDirectDescendants()
 ```
 
-![](../../img/selectDirectDescendants.mov)
+![](/img/selectDirectDescendants.mov)
 
 **Select cards by filtered connection**
 
@@ -83,7 +83,7 @@ let selectByFilteredConnection = () => {
 selectByFilteredConnection()
 ```
 
-![](../../img/selectByFiltered.mov)
+![](/img/selectByFiltered.mov)
 
 ## Next steps
 
