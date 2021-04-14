@@ -21,6 +21,19 @@ Here's a demo...
 I used https://caiorss.github.io/bookmarklet-maker/ to do some of the ancillary
 things like wrapping in an anonymous function, encoding it.
 
+Here's the code prior to the processing:
+
+```javascript
+let searchTerm = window.prompt(
+  "Select all cards with this string",
+  "Search term"
+)
+let vueState = document.querySelector("#app").__vue__.$store.state
+vueState.multipleCardsSelectedIds = vueState.currentSpace.cards
+  .filter(c => c.name.includes(searchTerm))
+  .map(c => c.id)
+```
+
 ## Next up and ideas
 
 There a bunch of new bookmarklets I'd like to write:
