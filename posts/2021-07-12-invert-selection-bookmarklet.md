@@ -16,7 +16,7 @@ It’s nice for making room in a crowded space:
 The code is here.
 
 ```
-let vueState = document.querySelector(“#app”).__vue__.$store.state;
+let vueState = document.querySelector("#app").__vue__.$store.state;
 vueState.multipleCardsSelectedIds =
     vueState.currentSpace.cards
         .filter(c => !vueState.multipleCardsSelectedIds.includes(c.id))
