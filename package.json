@@ -34,9 +34,11 @@
     "markdown-it-anchor": "^5.2.5"
   },
   "dependencies": {
+    "axios": "^0.21.2",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
+    "prettier": "^2.0.5",
+    "pug": "^3.0.1"
   },
   "lint-staged": {
     "*.{js,css,scss,html,md,json}": [
