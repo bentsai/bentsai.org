@@ -14,7 +14,7 @@ ss.innerText = ".user-label { display: none }"
 document.head.appendChild(ss)
 ```
 
-To show the avatars again, remove that noe:
+To show the avatars again, remove that node:
 
 ```js
 ss.parentNode.removeChild(ss)
