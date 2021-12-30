@@ -4,7 +4,7 @@ date: "2011-08-17"
 layout: layouts/post.njk
 ---
 
-[![](http://bentsai.files.wordpress.com/2011/08/photo.jpg?w=247 "Book cover")](http://bentsai.files.wordpress.com/2011/08/photo.jpg)We
+[![](https://bentsai.files.wordpress.com/2011/08/photo.jpg?w=247 "Book cover")](https://bentsai.files.wordpress.com/2011/08/photo.jpg)We
 recently got a bunch of UI/design books for the office, per my request. One of
 the ones that made it on the list was Joel Spolsky's
 [User Interface Design for Programmers](http://www.amazon.com/User-Interface-Design-Programmers-Spolsky/dp/1893115941).

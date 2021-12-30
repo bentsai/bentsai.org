@@ -42,4 +42,4 @@ The results after disabling TSVNCache.exe were astounding. It only takes a
 minute for Visual Studio and all of my add-ins to load, and less than 5 seconds
 for it to shutdown!
 
-![Speed improvement](http://bentsai.files.wordpress.com/2009/06/image.png?w=300 "Speed improvement")
+![Speed improvement](https://bentsai.files.wordpress.com/2009/06/image.png?w=300 "Speed improvement")

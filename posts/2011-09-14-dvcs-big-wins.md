@@ -12,12 +12,12 @@ Mercurial, have from centralized systems, such as Subversion. The first
 difference, ostensibly, is that with centralized VCS's, there is one repository
 with your "golden" sources, and each developer checks out a working copy:
 
-[![](http://bentsai.files.wordpress.com/2011/09/centralized.png?w=300 "Structure of Centralized VCS")](http://bentsai.files.wordpress.com/2011/09/centralized.png)
+[![](https://bentsai.files.wordpress.com/2011/09/centralized.png?w=300 "Structure of Centralized VCS")](https://bentsai.files.wordpress.com/2011/09/centralized.png)
 
 On the other hand, in the distributed world, each developer gets their own
 repository:
 
-[![](http://bentsai.files.wordpress.com/2011/09/distributed.png?w=300 "Structure for Distributed VCS")](http://bentsai.files.wordpress.com/2011/09/distributed.png)
+[![](https://bentsai.files.wordpress.com/2011/09/distributed.png?w=300 "Structure for Distributed VCS")](https://bentsai.files.wordpress.com/2011/09/distributed.png)
 
 The implications of this are **HUGE**.
 

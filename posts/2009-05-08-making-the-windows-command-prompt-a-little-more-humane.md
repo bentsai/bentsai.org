@@ -20,7 +20,7 @@ window size (so I can see more).
 
 \[caption id="attachment_30" align="alignnone" width="244" caption="(Properties
 | Layout, Screen Buffer Size > Height: 500, Window Size > Height:
-50)"\]![Properties | Layout](http://bentsai.files.wordpress.com/2009/05/properties.png?w=244 "Properties | Layout")\[/caption\]
+50)"\]![Properties | Layout](https://bentsai.files.wordpress.com/2009/05/properties.png?w=244 "Properties | Layout")\[/caption\]
 
 The default prompt puts your cursor on the same line as your current working
 directory. You can modify your prompt by changing the PROMPT environment
@@ -35,7 +35,7 @@ for some reason,
 did you know cmd.exe has a command history dialog? Hit F7 to get a list of your
 recent commands:
 
-![My command prompt with history dialog popped up](http://bentsai.files.wordpress.com/2009/05/cmd_prompt.png?w=279 "cmd_prompt")
+![My command prompt with history dialog popped up](https://bentsai.files.wordpress.com/2009/05/cmd_prompt.png?w=279 "cmd_prompt")
 
 I hope that makes your command prompt experience more enjoyable. The next thing
 I'd like to get in the habit of using more is

@@ -24,16 +24,16 @@ mute/unmute, do a "shake", adjust volume, and rotate/lock screen from this menu.
 
 To access it, go to `Settings->General->Accessibility`:
 
-![](http://bentsai.files.wordpress.com/2011/12/photo.png?w=200)
+![](https://bentsai.files.wordpress.com/2011/12/photo.png?w=200)
 
 Scroll down to the _Physical & Motor_ and tap `AssistiveTouch`:
 
-![](http://bentsai.files.wordpress.com/2011/12/photo1.png?w=200)
+![](https://bentsai.files.wordpress.com/2011/12/photo1.png?w=200)
 
 You will get an overlayed touch target, which opens a menu where you can operate
 the home button, among other things:
 
-![](http://bentsai.files.wordpress.com/2011/12/photo2.png?w=200)
+![](https://bentsai.files.wordpress.com/2011/12/photo2.png?w=200)
 
 Using the Assistive Touch feature, you can also save custom gestures and
 initiate multi-touching using only one finger, although I haven't found any use

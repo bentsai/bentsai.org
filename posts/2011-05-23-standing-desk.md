@@ -13,4 +13,4 @@ considered doing this before. Even though I've been quite happy in my
 still sitting. Now that more and more developers are going for it, I'm giving
 the standing desk the old college try:
 
-[![My standing desk setup](http://bentsai.files.wordpress.com/2011/05/standing_desk.jpg?w=384 "standing_desk")](http://bentsai.files.wordpress.com/2011/05/standing_desk.jpg)
+[![My standing desk setup](https://bentsai.files.wordpress.com/2011/05/standing_desk.jpg?w=384 "standing_desk")](https://bentsai.files.wordpress.com/2011/05/standing_desk.jpg)
