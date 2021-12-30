@@ -26,12 +26,17 @@ I'm posting it here.
 
 Here is the AutoIt script: \[sourcecode\]Opt("WinTitleMatchMode", 2)
 Opt("WinWaitDelay", 500) $isBalloon = 0 $last_title = "" Do
-$title = WinGetTitle("Campfire: ") If WinGetTitle("") == $title Then
-$last\_title = $title ContinueLoop EndIf If StringInStr($title, "(") AND $title
+$title =
+WinGetTitle("Campfire: ") If WinGetTitle("") == $title Then
+$last_title =
+$title ContinueLoop EndIf If StringInStr($title, "(") AND
+$title
 &lt;&gt; $last\_title Then $last_title = $title $parts =
-StringSplit($title, " ", 1) If ($isBalloon = 0) Then
-$isBalloon = 1 TrayTip("New Campfire message!", "There are unread messages in the " &amp; $parts\[3\]
-&amp; " chatroom.", 10) EndIf Else \$isBalloon = 0 EndIf Until 0 \[/sourcecode\]
+StringSplit($title,
+" ", 1) If ($isBalloon = 0) Then
+$isBalloon = 1 TrayTip("New Campfire message!",
+"There are unread messages in the " &amp; $parts\[3\] &amp; " chatroom.", 10)
+EndIf Else \$isBalloon = 0 EndIf Until 0 \[/sourcecode\]
 
 After downloading and installing AutoIt, you'll be able to run this script
 (paste this into a text file and give it a "au3" extension). You can also turn

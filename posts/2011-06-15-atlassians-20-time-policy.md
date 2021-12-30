@@ -80,9 +80,9 @@ Having Atlassian's foray into 20% time as a data point is very helpful. Most of
 the big ideas that they learned will certainly transfer to our forthcoming
 policy. However, they are different from our company in significant ways. They
 are a product company, with multiple successful products,  over 200 employees,
-tens of thousands of customers and
-$59 million in revenue. We are primarily a consulting firm, with 10 developers, and not-so-much revenue. They recently closed [$60
-million in
-funding](http://blogs.wsj.com/digits/2010/07/14/accel-invests-60-million-in-atlassian/),
+tens of thousands of customers and $59 million in revenue. We are primarily a
+consulting firm, with 10 developers, and not-so-much revenue. They recently
+closed
+[$60 million in funding](http://blogs.wsj.com/digits/2010/07/14/accel-invests-60-million-in-atlassian/),
 we didn't. So, there will be elements that we will need to adapt from their
 approach.

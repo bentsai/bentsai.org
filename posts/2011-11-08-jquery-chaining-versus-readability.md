@@ -12,7 +12,8 @@ wanted to unify these formats for consistency. The first looks like this:
 '.ui-btn-text');
 
 manOpsPage.bind('pagebeforeshow', function () {
-$(document).bind('keydown.side-buttons', 'e', function () { $('#label-6').click();
+$(document).bind('keydown.side-buttons', 'e', function () {
+$('#label-6').click();
 }); });
 
 manOpsPage.bind('pagehide', function () { var radioButtons =
@@ -21,17 +22,22 @@ true); radioButtons.checkboxradio('refresh'); });\[/sourcecode\] The second uses
 jQuery chaining syntax, which takes advantage of the fact that jQuery selections
 return the object, so I have chained my calls to
 [`bind`](http://api.jquery.com/bind/) together: \[sourcecode lang="javascript"\]
-$('div\[data-role="page"\]').bind('pagebeforeshow', function (e, ui) { ASCTD.setupSideButtons($(this));
+$('div\[data-role="page"\]').bind('pagebeforeshow',
+function (e, ui) {
+ASCTD.setupSideButtons($(this));
 }).bind('pagehide', function (e, ui) {
-ASCTD.removeSideButtons($(this)); }).bind('waitingForSequence', function () { if (ASCTD.uar.blocks\[0\].id === 21) { // We got a subtest complete sequence, so we are done. return; } $.mobile.showPageLoadingMsg();
-}).bind('sequenceStarted', function () { \$.mobile.hidePageLoadingMsg();
-});\[/sourcecode\] Initially, I was planning on converting all the syntax to the
-latter formatting, since it is more compact. But as I continued on this path, I
-became less and less enamored with how the syntax looked and "felt." The compact
-nature actually made it less readable. And I noticed that refactoring this code
-was a little harder (e.g., removing a link in the chain), since selecting the
-link required a bit of precision--I had to get go from one close paren to the
-next period, both of which were in the middle of a line.
+ASCTD.removeSideButtons($(this));
+}).bind('waitingForSequence', function () { if (ASCTD.uar.blocks\[0\].id === 21)
+{ // We got a subtest complete sequence, so we are done. return; }
+$.mobile.showPageLoadingMsg(); }).bind('sequenceStarted', function () {
+\$.mobile.hidePageLoadingMsg(); });\[/sourcecode\] Initially, I was planning on
+converting all the syntax to the latter formatting, since it is more compact.
+But as I continued on this path, I became less and less enamored with how the
+syntax looked and "felt." The compact nature actually made it less readable. And
+I noticed that refactoring this code was a little harder (e.g., removing a link
+in the chain), since selecting the link required a bit of precision--I had to
+get go from one close paren to the next period, both of which were in the middle
+of a line.
 
 An oft-cited
 [advantage of using chaining](http://tobiasahlin.com/blog/quick-guide-chaining-in-jquery/)
