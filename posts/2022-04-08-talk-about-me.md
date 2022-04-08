@@ -5,13 +5,9 @@ layout: layouts/post.njk
 ---
 
 I was invited to give a talk about my career journey to the current cohort at
-[CMU's MIIPS](https://www.cmu.edu/iii/degrees/miips/index.html) program. I used
-Kinopio for my presentation:
+[CMU's MIIPS](https://www.cmu.edu/iii/degrees/miips/index.html) program.
 
-<div class="kinopio-embed" style="height: 420px; width: 100%;">
-  <iframe src="https://kinopio.club/embed/?spaceId=DECfJmIQTgIdAsLl7R4uZ&zoom=100" style="height: 100%; width: 100%; border: 0; border-radius: 5px;">
-  </iframe>
-</div>
+![](/img/2022-04-08-15-41-50.png)
 
 As I reflected on my career thus far, I pulled out a few themes.
 
@@ -35,3 +31,12 @@ allies. They tend to be wonderful listeners. They are usually intimately
 familiar with proving the value of design, so they're battle-hardened and
 equipped. They're eager to find partners outside of their organization to work
 with.
+
+---
+
+I used Kinopio for my presentation (you'll need to scroll southeast):
+
+<div class="kinopio-embed" style="height: 420px; width: 100%;">
+  <iframe src="https://kinopio.club/embed/?spaceId=DECfJmIQTgIdAsLl7R4uZ&zoom=100" style="height: 100%; width: 100%; border: 0; border-radius: 5px;">
+  </iframe>
+</div>
