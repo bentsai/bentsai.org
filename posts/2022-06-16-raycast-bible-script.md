@@ -1,6 +1,6 @@
 ---
 title: "Bible at your fingertips with Raycast"
-date: "2022-06-16T13:57:01-0400"
+date: "2022-06-16"
 layout: layouts/post.njk
 ---
 

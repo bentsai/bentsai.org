@@ -1,6 +1,6 @@
 ---
 title: "Arrange Kinopio cards"
-date: "2022-06-29T14:31:32-0400"
+date: "2022-06-29"
 layout: layouts/post.njk
 ---
 

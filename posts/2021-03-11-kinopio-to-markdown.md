@@ -1,6 +1,6 @@
 ---
 title: "Kinopio → Markdown"
-date: "2021-03-12T04:48:42.250Z"
+date: "2021-03-12"
 layout: layouts/post.njk
 ---
 
