@@ -24,8 +24,7 @@ header {
 header > .text-2xl {
   font-family: "Times New Roman", "Droid Serif", Times, "Source Serif Pro", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 2.5rem;
-  color: #393939;
-  letter-spacing: -2.5px;
+  letter-spacing: -.05rem;
   line-height: 2.25rem;
   text-align: center;
   padding-top: 1rem;
@@ -38,7 +37,7 @@ header > .text-2xl {
 header > p.font-bold {
   font-weight: normal;
   font-style: italic;
-  letter-spacing: -1px;
+  letter-spacing: -.05rem;
   opacity: .8;
   text-align: center;
   padding-top: .5rem;
@@ -53,7 +52,7 @@ code, kbd, samp, pre {
   font-style: normal;
   opacity: .8;
   padding-top: .2rem;
-  letter-spacing: -1px;
+  letter-spacing: -.02rem;
   width: 108px;
 }
 ```
