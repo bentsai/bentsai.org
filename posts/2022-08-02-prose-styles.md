@@ -4,27 +4,29 @@ date: "2022-08-02"
 layout: layouts/post.njk
 ---
 
-I started using [prose.sh](https://prose.sh/) as a mirror for my blog. Prose is a cool project
-within the [Pico](pico.sh) ecosystem that lets you blog with an ssh-based workflow. Their vibe
-is to promote the smol web. Cool!
+I started using [prose.sh](https://prose.sh/) as a mirror for my blog. Prose is
+a cool project within the [Pico](pico.sh) ecosystem that lets you blog with an
+ssh-based workflow. Their vibe is to promote the smol web. Cool!
 
-They recently [implemented custom CSS](https://todo.sr.ht/~erock/pico.sh/35), based partially on
-my request in their IRC. So with that, I've made a few visual tweaks to my blog which you're seeing
-now.
+They recently [implemented custom CSS](https://todo.sr.ht/~erock/pico.sh/35),
+based partially on my request in their IRC. So with that, I've made a few visual
+tweaks to my blog which you're seeing now.
 
-I'm happy about bumping up the font size on the headings, an unironic use of Times New Roman with
-some tightening on the letter spacing.
+I'm happy about bumping up the font size on the headings, an unironic use of
+Times New Roman with some tightening on the letter spacing.
 
-The live file is [here](https://ben.prose.sh/_styles.css), while the current state on publish is:
+The live file is [here](https://ben.prose.sh/_styles.css), while the current
+state on publish is:
 
 ```css
 header {
   margin: 2rem auto;
 }
 header > .text-2xl {
-  font-family: "Times New Roman", "Droid Serif", Times, "Source Serif Pro", serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Times New Roman", "Droid Serif", Times, "Source Serif Pro",
+    serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 2.5rem;
-  letter-spacing: -.05rem;
+  letter-spacing: -0.05rem;
   line-height: 2.25rem;
   text-align: center;
   padding-top: 1rem;
@@ -37,22 +39,25 @@ header > .text-2xl {
 header > p.font-bold {
   font-weight: normal;
   font-style: italic;
-  letter-spacing: -.05rem;
-  opacity: .8;
+  letter-spacing: -0.05rem;
+  opacity: 0.8;
   text-align: center;
-  padding-top: .5rem;
+  padding-top: 0.5rem;
 }
 
-code, kbd, samp, pre {
+code,
+kbd,
+samp,
+pre {
   font-size: 0.9rem;
 }
 
 .post-date {
   font-family: monospace;
   font-style: normal;
-  opacity: .8;
-  padding-top: .2rem;
-  letter-spacing: -.02rem;
+  opacity: 0.8;
+  padding-top: 0.2rem;
+  letter-spacing: -0.02rem;
   width: 108px;
 }
 ```

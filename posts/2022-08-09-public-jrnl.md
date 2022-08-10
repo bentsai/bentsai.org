@@ -7,17 +7,17 @@ layout: layouts/post.njk
 I've connected together a few tools so I can quickly publish thoughts to a
 website.
 
-## Jrnl
+### Jrnl
 
 [Jrnl](https://jrnl.sh) is a slick CLI tool for journaling. It stores data in a
 single text file.
 
-## Lists
+### Lists
 
 Another tool in the [picosphere](https://pico.sh), [Lists](https://lists.sh)
 lets you easily publish a list-oriented text file to the web.
 
-## Raycast
+### Raycast
 
 This is how I input my thoughts. I have a simple extension that calls `jrnl`,
 then pipes the output into lists.sh:
