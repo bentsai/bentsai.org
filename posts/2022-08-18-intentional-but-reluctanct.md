@@ -18,7 +18,11 @@ A few weeks ago,
 > Being intentional with our time is such an underrated superpower! I wish I did
 > it more.
 
-[I responded](https://www.linkedin.com/feed/update/urn:li:activity:6955686436218028032?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6955686436218028032%2C6955724975865487360%29):
+The idea that **activity ≠ productivity** is spot on. The message of "Be
+intentional with your time—you don't have to be in meetings to be productive."
+is also valid. But there are other reasons why we feel like we need to be in
+meetings.
+[I was compelled to respond](https://www.linkedin.com/feed/update/urn:li:activity:6955686436218028032?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6955686436218028032%2C6955724975865487360%29):
 
 > I think a huge contributing factor to this behavior is a company culture that
 > rewards being in meetings!
